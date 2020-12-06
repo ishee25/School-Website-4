@@ -1,0 +1,102 @@
+body{
+    text-align: center;
+}
+marquee{
+    background-color:chocolate;
+    color:azure;
+    font-size: 20px;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    opacity:0.3;
+    width: 1000px;
+    margin: 8px auto;
+}
+img{
+    border-radius:10000px;
+}
+#map{
+    text-align: center;
+}
+#principal{
+    margin-top: 30px;
+}
+.innerspancontact #h33{
+    display: inline;
+}
+html{
+    scroll-behavior: smooth;
+}
+.my_nav_bar{
+    position:sticky;
+    top:0;
+    z-index:9999;
+}
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+.travel_mainDiv img {
+    width: 100%;
+}
+.travel_mainDiv hr {
+    width: 230px;
+}
+.travel_mainDiv h5{
+    margin-left: 20px;
+}
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i {
+    float: right;
+}
+.environment_li {
+    margin-top: 13px;
+}
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.environment_li img {
+    border-radius: 25px;
+}
+.environment_li p {
+    margin-top: 10px;
+}
+#contact{
+    margin-top: 20px;
+}
+.modal-content {
+    margin-top: 100px;
+}
+.img_modal {
+    display: inline-block;
+    text-align:center;
+}
+.p_modal {
+    margin-top: 10px;
+}
+.modal-body {
+    text-align: center;
+}
+.al {
+    cursor: pointer;
+}
+.al hr {
+    margin-bottom: 10px;
+}
+.myAll{
+    height:450px;
+}
